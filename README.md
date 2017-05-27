@@ -14,11 +14,11 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
 - En <a href="https://github.com/"> GitHub</a>, hacer click al botón de “New repository", crear el nuevo repositorio (melies-origen en mi caso), una descripción, hacerlo público e inicializar el repositorio con un README (que es el documento que estás leyendo en este momento).
 
-- Una vez creado, en Settings habilitar GitHub Pages en master, con lo que tendrás la presentación disponible en la url que te indica (en mi caso en https://cristinafsanz.github.io/melies-origen/) en cuanto la subas a GitHub.
+- Una vez creado, en Settings habilitar GitHub Pages en master, con lo que tendrás la presentación disponible en la url que te indica en cuanto la subas a GitHub (en mi caso en la url https://cristinafsanz.github.io/melies-origen/).
 
 - Ir a línea de comandos de tu ordenador y clonar el proyecto en el lugar donde quieres tener el proyecto en local:
 
-    git clone git\@github.com/user/repository-name.git
+    <pre><code>git clone git@github.com/user/repository-name.git</code></pre>
 
 - Nota: Puede que tengas que generar la clave ssh para GitHub si no lo tienes hecho ya: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
