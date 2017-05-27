@@ -33,13 +33,13 @@ git clone git@github.com/<user>/<repository name>.git
 
 - Subir los cambios al Repositorio
 
-git status
+        git status
 
-git add (para los ficheros que quieras subir)
+        git add (para los ficheros que quieras subir)
 
-git commit -m "Mensaje para el commit"
+        git commit -m "Mensaje para el commit"
 
-git push origin master
+        git push origin master
 
 - Y con esto ya tienes la presentación en la url que te habilita GitHub Pages.
 
