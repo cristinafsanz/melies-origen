@@ -22,13 +22,15 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
 - Nota: Puede que tengas que generar la clave ssh para GitHub si no lo tienes hecho ya: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
-- Copiar el proyecto descargado de WebSlides en la raíz de donde hayas clonado el proyecto, quitando las partes que no necesites, como la mayoría de imágenes, el CHANGELOG.md y el directorio demos.
+- Copia el proyecto descargado de WebSlides en la raíz de donde hayas clonado el proyecto, quitando las partes que no necesites, como la mayoría de imágenes, el CHANGELOG.md y el directorio demos.
 
-- Editar index.html con tu presentación (también edita la parte del head del html con tu información), teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias dos repositorios que han usado WebSlides para coger ideas de cómo estructurar el contenido en el index.html:
+- Edita index.html con tu presentación (también edita la parte del head del html con tu información), teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias dos repositorios que han usado WebSlides para coger ideas de cómo estructurar el contenido en el index.html:
 
     - Repositorio de <a href="https://twitter.com/xaviju">Xavi Julián</a>: <a href="https://github.com/Xaviju/adalab-OS">adalab-OS</a>
 
     - Repositorio de <a href="https://twitter.com/eletorro">Elena Torró</a>: <a href="https://github.com/elenatorro/jsday-2017-talk">jsday-2017-talk</a>
+
+- Consulta los tutoriales de WebSlides con los <a href="https://webslides.tv/demos/components">componentes</a> y las <a href="https://webslides.tv/demos/classes">clases CSS</a> para ver qué puedes hacer.  
 
 - Puedes abrir el index.html que has modificado en un navegador y moverte por las slides con los botones que hay en la parte inferior (o con las flechas de teclado) y así ver que el contenido y la presentación son correctos.
 
@@ -45,5 +47,53 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
         git push origin master
 
 - Y con estos pasos ya tienes la presentación en la url que te habilita GitHub Pages :)
+
+## Guión
+
+### Ilusionismo con GitHub Pages
+
+Bienvenidos a la presentación del proyecto
+
+### ¿Quién soy?
+
+Me presento, soy Cristina Fernández y soy desarrolladora front-end. En la foto estoy en la exposición de un personaje que voy a intentar incorporar al proyecto. Por ahora lo dejo ahí.
+
+### Origen de la ideas
+
+Cada día salen nuevas tecnologías que aprender y para asentar conocimientos lo mejor es practicar, pero ¿dónde alojar las páginas web que vayamos creando? Para el código tenemos GitHub y... para publicar una página web también.
+
+### GitHub Pages
+
+GitHub Pages es un servicio de GitHub para publicar páginas web y mediante este proyecto quiero investigar más sobre las posibilidades que tiene.
+
+### Ilusionimso
+
+¿Por qué usaste en el título de la charla lo de ilusionismo? Porque el servicio GitHub Pages lo veo como una técnica de transformación donde tú alojas el código para tenerlo versionado pero a la vez puedes tener una página web disponible para mostrar.
+
+### Georges Méliès
+
+¿Y el personaje que comentaste al inicio? Se trata de Georges Méliés, un ilusionista que empezó a experimentar con el cinematógrafo para unir las 2 disciplinas, el ilusionismo y el cine.
+
+### GitHub Pages + Front-end + Georges Mélìes
+
+¿Por qué no hacer lo mismo y mezclar todas las ideas para el proyecto? Mezclar GitHub Pages, Front-end y Georges Mélìes.
+
+### Idea inicial
+
+Unir un caso de uso de GitHub Pages con una tecnología que vaya a aprender de Front-end y con temática de Georges Méliès.
+
+### Documentación
+
+Realmente con GitHub Pages y Front-end puedo hacer el proyecto, pero investigaré un poco a ver si puedo combinarlo con el ilusionismo.
+
+### Primer proyecto
+
+Un truco de magia más: El primer proyecto lo he hecho a la vez que esta presentación, ¿cómo es posible? Porque la he publicado con GitHub Pages, he usado WebSlides para crear presentaciones y he introducido a Georges Méliès.
+
+### Gracias
+
+Si tenéis alguna pregunta o sugerencia, me podéis contactar en <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
+
+
 
 
