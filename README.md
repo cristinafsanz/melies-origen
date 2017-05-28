@@ -2,19 +2,19 @@
 
 ## Cómo se hizo la presentación (versión corta)
 
-Presentación realizada con <a href="https://github.com/webslides/WebSlides"> WebSlides</a>.
+Presentación realizada con <a href="https://webslides.tv/">WebSlides</a>, una solución open source creada por <a href="https://twitter.com/jlantunez">@jlantunez</a>, <a href="https://twitter.com/Belelros">@Belelros</a> y <a href="https://twitter.com/luissacristan">@luissacristan</a>.
 
-Se ha habilitado GitHub Pages para que se genere la presentación a partir de la rama master (se habilita en la pestaña "Settings" del repositorio).
+Se ha habilitado GitHub Pages para que se visualice la presentación a partir de la rama master (se habilita en la pestaña "Settings" del repositorio). La información sobre las distintas formas de configurar GitHub Pages la puedes encontrar en <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">Configuring a publishing source for GitHub Pages</a>.
 
 ## Cómo se hizo la presentación (versión larga)
 
-Desde el repositorio de GitHub de <a href="https://github.com/webslides/WebSlides"> WebSlides</a> te puedes descargar la última versión, que es un proyecto web con HTML, CSS y JavaScript que puedes editar para añadir tu contenido.
+Desde el repositorio de GitHub de <a href="https://github.com/webslides/WebSlides"> WebSlides</a> te puedes descargar la última versión (en mi caso la 1.3.0), que es un proyecto web con HTML, CSS y JavaScript que puedes editar para añadir tu contenido.
 
 Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente que he hecho es crear un repositorio en mi cuenta de GitHub:
 
 - En <a href="https://github.com/"> GitHub</a>, hacer click al botón de “New repository", crear el nuevo repositorio (melies-origen en mi caso), una descripción, hacerlo público e inicializar el repositorio con un README (que es el documento que estás leyendo en este momento).
 
-- Una vez creado, en Settings habilitar GitHub Pages en master, con lo que tendrás la presentación disponible en la url que te indica en cuanto la subas a GitHub (en mi caso en la url https://cristinafsanz.github.io/melies-origen/).
+- Una vez creado, en Settings tienes que habilitar GitHub Pages en master, con lo que tendrás la presentación disponible en la url que te indica en cuanto subas el código a la rama master (en mi caso en la url https://cristinafsanz.github.io/melies-origen/).
 
 - Ir a línea de comandos de tu ordenador y clonar el proyecto en el lugar donde quieres tener el proyecto en local:
 
@@ -24,7 +24,7 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
 - Copiar el proyecto descargado de WebSlides en la raíz de donde hayas clonado el proyecto, quitando las partes que no necesites, como la mayoría de imágenes, el CHANGELOG.md y el directorio demos.
 
-- Editar index.html con tu presentación, teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias 2 repositorios que han usado WebSlides para modificar el index.html:
+- Editar index.html con tu presentación (también edita la parte del head del html con tu información), teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias dos repositorios que han usado WebSlides para darme ideas de contenido en el index.html:
 
     - Repositorio de <a href="https://twitter.com/xaviju">Xavi Julián</a>: <a href="https://github.com/Xaviju/adalab-OS">adalab-OS</a>
 
@@ -36,7 +36,7 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
 - Subir los cambios al Repositorio
 
-        git status
+        git status (para ver los ficheros que tienes que añadir)
 
         git add (para los ficheros que quieras subir)
 
@@ -44,6 +44,6 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
         git push origin master
 
-- Y con esto ya tienes la presentación en la url que te habilita GitHub Pages.
+- Y con estos pasos ya tienes la presentación en la url que te habilita GitHub Pages :)
 
 
