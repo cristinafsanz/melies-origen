@@ -24,17 +24,17 @@ Como en mi caso quería publicar la presentación con GitHub Pages, lo siguiente
 
 - Copiar el proyecto descargado de WebSlides en la raíz de donde hayas clonado el proyecto, quitando las partes que no necesites, como la mayoría de imágenes, el CHANGELOG.md y el directorio demos.
 
-- Editar index.html con tu presentación (también edita la parte del head del html con tu información), teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias dos repositorios que han usado WebSlides para darme ideas de contenido en el index.html:
+- Editar index.html con tu presentación (también edita la parte del head del html con tu información), teniendo en cuenta que cada sección es una slide. En mi caso he cogido como referencias dos repositorios que han usado WebSlides para coger ideas de cómo estructurar el contenido en el index.html:
 
     - Repositorio de <a href="https://twitter.com/xaviju">Xavi Julián</a>: <a href="https://github.com/Xaviju/adalab-OS">adalab-OS</a>
 
     - Repositorio de <a href="https://twitter.com/eletorro">Elena Torró</a>: <a href="https://github.com/elenatorro/jsday-2017-talk">jsday-2017-talk</a>
 
-- Puedes abrir el index.html que has modificado en un navegador y moverte por las slides con los botones que hay en la parte inferior y así ver que el contenido y la presentación son correctas.
+- Puedes abrir el index.html que has modificado en un navegador y moverte por las slides con los botones que hay en la parte inferior (o con las flechas de teclado) y así ver que el contenido y la presentación son correctos.
 
 - Añade información sobre el proyecto en README.md en lenguaje Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 
-- Subir los cambios al Repositorio
+- Sube los cambios al repositorio
 
         git status (para ver los ficheros que tienes que añadir)
 
