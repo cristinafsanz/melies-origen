@@ -4,6 +4,8 @@
 
 Presentación realizada con <a href="https://webslides.tv/">WebSlides</a>, una solución open source creada por <a href="https://twitter.com/jlantunez">@jlantunez</a>, <a href="https://twitter.com/Belelros">@Belelros</a> y <a href="https://twitter.com/luissacristan">@luissacristan</a>.
 
+Para saber más podéis leer la introducción a WebSlides en el artículo de Sitepoint [How to Create Beautiful HTML & CSS Presentations with WebSlides](https://www.sitepoint.com/how-to-create-beautiful-html-css-presentations-with-webslides/).
+
 Se ha habilitado GitHub Pages para que se visualice la presentación a partir de la rama master (se habilita en la pestaña "Settings" del repositorio). La información sobre las distintas formas de configurar GitHub Pages la puedes encontrar en <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">Configuring a publishing source for GitHub Pages</a>.
 
 ## Cómo se hizo la presentación (versión larga)
